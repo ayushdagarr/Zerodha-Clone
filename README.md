@@ -1,8 +1,10 @@
 📈 Zerodha Clone
+
 A full-stack Zerodha Clone web application built to replicate the core features and user experience of the Zerodha trading platform.
 This project includes a landing frontend, authentication system, and a protected trading dashboard where users can view stocks, manage holdings, and place buy/sell orders.
 
 🚀 Features:-
+
 🌐 Frontend (Public Website)
 
 -Zerodha-style landing pages
@@ -49,6 +51,7 @@ This project includes a landing frontend, authentication system, and a protected
 
 Frontend:-
 
+
 -React.js
 
 -JavaScript
@@ -59,6 +62,7 @@ Frontend:-
 
 Dashboard:-
 
+
 -React.js
 
 -Context API
@@ -66,6 +70,7 @@ Dashboard:-
 -Charts & visual components
 
 Backend:-
+
 
 -Node.js
 
