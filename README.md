@@ -78,11 +78,3 @@ Backend:-
 -JWT Authentication
 
 -bcrypt
-
-📂 Project Structure
-Zerodha/
-│
-├── backend/        # Node.js + Express backend
-├── frontend/       # Public landing pages (Zerodha UI clone)
-├── dashboard/      # Trading dashboard (after login)
-└── README.md
