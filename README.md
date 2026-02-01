@@ -1,85 +1,85 @@
-📈 Zerodha Clone
+📈 TradeX
 
-A full-stack Zerodha Clone web application built to replicate the core features and user experience of the Zerodha trading platform.
+A full-stack TradeX web application built to replicate the core features and user experience of the TradeX trading platform.
 This project includes a landing frontend, authentication system, and a protected trading dashboard where users can view stocks, manage holdings, and place buy/sell orders.
 
 🚀 Features:-
 
 🌐 Frontend (Public Website)
 
--Zerodha-style landing pages
+- TradeX-style landing pages
 
--Rich UI with detailed information (Products, Pricing, About, Support, etc.)
+- Rich UI with detailed information (Products, Pricing, About, Support, etc.)
 
--Responsive and clean design
+- Responsive and clean design
 
--User authentication (Login / Logout)
+- User authentication (Login / Logout)
 
 🔐 Authentication:-
 
--Secure login system
+- Secure login system
 
--JWT-based authentication
+- JWT-based authentication
 
--Protected routes for dashboard access
+- Protected routes for dashboard access
 
 📊 Dashboard (After Login):-
 
--View available stocks
+- View available stocks
 
--Buy & Sell stocks
+- Buy & Sell stocks
 
--Track Holdings
+- Track Holdings
 
--Track Positions
+- Track Positions
 
--Orders management
+- Orders management
 
--Logout and return to frontend safely
+- Logout and return to frontend safely
 
 🛠 Backend:-
 
--REST APIs for authentication and trading operations
+- REST APIs for authentication and trading operations
 
--JWT token handling
+- JWT token handling
 
--MongoDB models for users, holdings, positions, and orders
+- MongoDB models for users, holdings, positions, and orders
 
--Clean MVC structure
+- Clean MVC structure
 
 🧩 Tech Stack:-
 
 Frontend:-
 
 
--React.js
+- React.js
 
--JavaScript
+- JavaScript
 
--CSS
+- CSS
 
--React Router
+- React Router
 
 Dashboard:-
 
 
--React.js
+- React.js
 
--Context API
+- Context API
 
--Charts & visual components
+- Charts & visual components
 
 Backend:-
 
 
--Node.js
+- Node.js
 
--Express.js
+- Express.js
 
--MongoDB
+- MongoDB
 
--Mongoose
+- Mongoose
 
--JWT Authentication
+- JWT Authentication
 
--bcrypt
+- bcrypt
