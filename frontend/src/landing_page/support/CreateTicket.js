@@ -21,15 +21,15 @@ function CreateTicket() {
         <br/>
         <a href='' style={{textDecoration:"none", lineHeight:"2.5"}}>NRI Account Opening</a>
         <br/>
-        <a href='' style={{textDecoration:"none", lineHeight:"2.5"}}>Charges at Zerodha</a>
+        <a href='' style={{textDecoration:"none", lineHeight:"2.5"}}>Charges at TradeX</a>
         <br/>
-        <a href='' style={{textDecoration:"none", lineHeight:"2.5"}}>Zerodha IDFC FIRST Bank 3-in-1 Account</a>
+        <a href='' style={{textDecoration:"none", lineHeight:"2.5"}}>TradeX IDFC FIRST Bank 3-in-1 Account</a>
         <br/>
         <a href='' style={{textDecoration:"none", lineHeight:"2.5"}}>Getting Started</a>
       </div>
       <div className="col-4 p-5  mt-2 mb-2">
         <h4 className="">
-          <i class="fa fa-user" aria-hidden="true"></i> Your Zerodha Account
+          <i class="fa fa-user" aria-hidden="true"></i> Your TradeX Account
         </h4>
         <a href='' style={{textDecoration:"none", lineHeight:"2.5"}}>Login Credentials</a>
         <br/>
@@ -44,7 +44,7 @@ function CreateTicket() {
       </div>
       <div className="col-4 p-5  mt-2 mb-2">
         <h4 className="">
-          <i class="fa fa-bar-chart" aria-hidden="true"></i> Your Zerodha Account
+          <i class="fa fa-bar-chart" aria-hidden="true"></i> Your TradeX Account
         </h4>
         <a href='' style={{textDecoration:"none", lineHeight:"2.5"}}>Margin/Leverage, Product and Order types</a>
         <br/>

@@ -15,7 +15,7 @@ function Team() {
         </div>
         <div className="col-6 p-3">
             <p>
-              Ayush Dagar bootstrapped and founded Zerodha in 2010 to overcome the 
+              Ayush Dagar bootstrapped and founded TradeX in 2026 to overcome the 
 hurdles he faced during his decade long stint as a trader. Today,
 Zerodha has changed the landscape of the Indian broking industry.</p> 
 
